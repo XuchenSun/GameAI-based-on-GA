@@ -9,7 +9,7 @@ A common genetic algorithm can be implemented by three steps:
 Initialize lots of solution domin. 
 
 *Step2*
-Evaluate the good solution domain, keep brilliant solution domin and delete terrible solution domin.
+Evaluate the all solution domain, keep brilliant solution domin and delete terrible solution domin.
 
 *Step3*
 initialize losts of solution domin from the brilliant solution of step2
