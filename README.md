@@ -25,4 +25,8 @@ Environment Creation
     
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/envGrass.jpg)
 
+    People and Monsters
+    
+  ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/envPeopleAndMonster.jpg)
+
 
