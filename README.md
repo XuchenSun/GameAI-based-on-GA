@@ -16,5 +16,7 @@ initialize losts of solution domin from the brilliant solution of step2
 
 
 Environment Creation
-2020-10-7
+
+    2020-10-7
+
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/environment1.jpg)
