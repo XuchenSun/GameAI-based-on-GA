@@ -21,7 +21,7 @@ Environment Creation
 
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/environment1.jpg)
 
-   Grass and House（Grass(70K typeA+ 70K typeB+ 70KtypeC) can wave to simulate the cloud）
+    Grass and House（Grass(70K typeA+ 70K typeB+ 70KtypeC) can wave to simulate the cloud）
     
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/envGrass.jpg)
 
