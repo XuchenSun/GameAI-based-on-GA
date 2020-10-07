@@ -13,3 +13,7 @@ Evaluate the all solution domain, keep brilliant solution domin and delete terri
 
 *Step3*
 initialize losts of solution domin from the brilliant solution of step2
+
+
+Environment Creation
+2020-10-7
