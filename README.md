@@ -33,10 +33,11 @@ Environment Creation
     
   ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/envMultiLayerMontain.jpg)
 
-    一条大河波浪宽，风吹稻花香两岸。我家就在岸上住。
-    A great river flows, its waves wide and calm~~
-    Wind blows through rice flowers, bearing fragrance to both shores~~
-    My family lives right there by the water~~
+A pretty good song
+
+     一条大河波浪宽: A great river flows, its waves wide and calm~~
+    风吹稻花香两岸: Wind blows through rice flowers, bearing fragrance to both shores~~
+    我家就在岸上住: My family lives right there by the water~~
     
-   ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/%E4%B8%80%E6%9D%A1%E5%A4%A7%E6%B2%B3%E6%B3%A2%E6%B5%AA%E5%AE%BD.jpg)
+ ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/%E4%B8%80%E6%9D%A1%E5%A4%A7%E6%B2%B3%E6%B3%A2%E6%B5%AA%E5%AE%BD.jpg)
 
