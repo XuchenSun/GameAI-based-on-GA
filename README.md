@@ -33,9 +33,9 @@ Environment Creation
     
   ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/envMultiLayerMontain.jpg)
 
-A pretty good song
+Song: A Big River
 
-     一条大河波浪宽: A great river flows, its waves wide and calm~~
+    一条大河波浪宽: A great river flows, its waves wide and calm~~
     风吹稻花香两岸: Wind blows through rice flowers, bearing fragrance to both shores~~
     我家就在岸上住: My family lives right there by the water~~
     
