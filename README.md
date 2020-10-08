@@ -40,4 +40,8 @@ Song: A Big River
     我家就在岸上住: My family lives right there by the water~~
     
  ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/%E4%B8%80%E6%9D%A1%E5%A4%A7%E6%B2%B3%E6%B3%A2%E6%B5%AA%E5%AE%BD.jpg)
+ 
+    set a trigger to play Audo: A Big River
+    
+![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/setAtriggerToPlayABigRiver.jpg)
 
