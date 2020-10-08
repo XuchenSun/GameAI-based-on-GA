@@ -28,5 +28,9 @@ Environment Creation
     People and Monsters
     
   ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/envPeopleAndMonster.jpg)
+  
+    MultiLayer Mountain
+    
+  ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/envMultiLayerMontain.jpg)
 
 
