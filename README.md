@@ -45,5 +45,5 @@ Song: A Big River
     
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/setAtriggerToPlayABigRiver.jpg)
 
-    add backGroundMusic: Free music from public website.
+    add backGroundMusic（loop）: Free music from public website.
 
