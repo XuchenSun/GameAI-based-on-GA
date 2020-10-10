@@ -47,10 +47,15 @@ Song: A Big River
 
     add backGroundMusic（loop）: Free music from public website.
 
-    sing a song 雪花飘飘北风啸啸，天地一片苍茫。
+    sing a song 
+    雪花飘飘北风啸啸：Snowflakes fluttering and north winds rustling
+    天地一片苍茫：Between the sky and earth it’s dim and misty
+ 
 
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/XueHuaPiaoPiao.jpg)
 
-    sing a song 一剪寒梅傲立雪中，只为伊人飘香。
+    sing a song 
+    一剪寒梅傲立雪中：Cold sprays of plum blossoms stand proudly in the snow
+    只为伊人飘香：Giving off fragrance for people
     
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/YiJianHanMei.jpg)
