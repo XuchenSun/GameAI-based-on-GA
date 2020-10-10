@@ -47,6 +47,6 @@ Song: A Big River
 
     add backGroundMusic（loop）: Free music from public website.
 
-    toch a trigger to sing a song 雪花飘飘北风啸啸，天地一片苍茫。
+    sing a song 雪花飘飘北风啸啸，天地一片苍茫。
 
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/XueHuaPiaoPiao.jpg)
