@@ -56,6 +56,6 @@ Song: A Big River
 
     sing a song 
     一剪寒梅傲立雪中：Cold sprays of plum blossoms stand proudly in the snow
-    只为伊人飘香：Giving off fragrance for people
+    只为伊人飘香：Giving off fragrance for my love
     
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/YiJianHanMei.jpg)
