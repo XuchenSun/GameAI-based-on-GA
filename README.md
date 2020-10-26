@@ -61,5 +61,8 @@ Song: A Big River
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/YiJianHanMei.jpg)
 
 UFO Creation
-
+MetalUFO
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/MetalUFO.jpg)
+
+2020-10-26 PyramidUFO
+![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/PyramidUFO.jpg)
