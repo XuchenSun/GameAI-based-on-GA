@@ -68,3 +68,6 @@ MetalUFO
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/PyramidUFO.jpg)
 2020-10-27 RoswellShip----liquid surface
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/RoswellShip.jpg)
+
+2020-10-30 Gun animation
+![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/GunAnimation.jpg)
