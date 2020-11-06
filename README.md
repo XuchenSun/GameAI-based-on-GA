@@ -74,5 +74,10 @@ MetalUFO
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/Me3.jpg)
 2020-10-30 Gun animation
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/GunAnimation.jpg)
+2020-11-01 to 2020-11-06 
 
+User Layout Design: Setting GA attribution
+
+Creat Weapon AR-15 and "Storm"
+![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/User%20Layout.jpg)
 2020-11-06 Install game design component of  2017 Community Edition , connect it to Unreal Engine4 project and prepare for coding
