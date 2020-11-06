@@ -75,4 +75,4 @@ MetalUFO
 2020-10-30 Gun animation
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/GunAnimation.jpg)
 
-2020-11-06 Install game design component of Visual Studio 2019 , connect it to Unreal Engine4 project and prepare for coding
+2020-11-06 Install game design component of  2017 Community Edition , connect it to Unreal Engine4 project and prepare for coding
