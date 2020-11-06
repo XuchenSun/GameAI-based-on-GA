@@ -81,3 +81,5 @@ User Layout Design: Setting GA attribution
 Creat Weapon AR-15 and "Storm"
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/User%20Layout.jpg)
 2020-11-06 Install game design component of  2017 Community Edition , connect it to Unreal Engine4 project and prepare for coding
+
+Compiling objects and lights costs too much time, Xuchen is waiting for new AMD CPU and motherboard: 5950X +  X570 
