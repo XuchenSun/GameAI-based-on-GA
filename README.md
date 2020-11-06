@@ -78,7 +78,7 @@ MetalUFO
 
 User Layout Design: Setting GA attribution
 
-Creat Weapon AR-15 and "Storm"
+Creat Weapon AR-15 and "Storm" hand to hold the AR-15
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/User%20Layout.jpg)
 2020-11-06 Install game design component of  2017 Community Edition , connect it to Unreal Engine4 project and prepare for coding
 
