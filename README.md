@@ -82,4 +82,6 @@ Creat Weapon AR-15 and "Storm" hand to hold the AR-15
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/User%20Layout.jpg)
 2020-11-06 Install game design component of  2017 Community Edition , connect it to Unreal Engine4 project and prepare for coding
 
-Compiling objects and lights costs too much time, Xuchen is waiting for new AMD CPU and motherboard: 5950X +  X570 
+Compiling objects and lights costs too much time, Xuchen is waiting for new AMD CPU and motherboard: 5900X +  X570 
+
+2020-12-07 New CPU and Motherborad will arrive at 2020-12-14 by Amazon Prime
