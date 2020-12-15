@@ -87,3 +87,4 @@ Compiling objects and lights costs too much time, Xuchen is waiting for new AMD 
 2020-12-07 New CPU and Motherborad will arrive at 2020-12-14 by Amazon Prime
 
 2020-12-15 New CPU is ready to use
+![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/DevelopeLog/NewCpu2020-12-15.png)
