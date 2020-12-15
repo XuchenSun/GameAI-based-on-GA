@@ -85,3 +85,5 @@ Creat Weapon AR-15 and "Storm" hand to hold the AR-15
 Compiling objects and lights costs too much time, Xuchen is waiting for new AMD CPU and motherboard: 5900X +  X570 
 
 2020-12-07 New CPU and Motherborad will arrive at 2020-12-14 by Amazon Prime
+
+2020-12-15 New CPU is ready to use
