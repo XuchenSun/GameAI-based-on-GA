@@ -89,7 +89,7 @@ Compiling objects and lights costs too much time, Xuchen is waiting for new AMD 
 2020-12-15 New CPU is ready to use
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/DevelopeLog/NewCpu2020-12-15.png)
 
-2020-12-23 MUN logo
+2020-12-16 to 2020-12-23 MUN logo + AI random running script
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/DevelopeLog/2020-12-23MUNlogo.png)
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/DevelopeLog/2020-12-23%20Random%20Moving%20AI.jpg)
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/DevelopeLog/2020-12-23%20Random%20Moving%20AI%20RUNing.jpg)
