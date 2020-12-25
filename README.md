@@ -93,3 +93,6 @@ Compiling objects and lights costs too much time, Xuchen is waiting for new AMD 
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/DevelopeLog/2020-12-23MUNlogo.png)
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/DevelopeLog/2020-12-23%20Random%20Moving%20AI.jpg)
 ![](https://github.com/XuchenSun/GameAI-based-on-GA/blob/main/DevelopeLog/2020-12-23%20Random%20Moving%20AI%20RUNing.jpg)
+
+2020-12-25 PM 1 to 6 import bone animation
+7 to 11 AI perception 
