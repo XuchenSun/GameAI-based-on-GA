@@ -96,3 +96,5 @@ Compiling objects and lights costs too much time, Xuchen is waiting for new AMD 
 
 2020-12-25 PM 1 to 6 import bone animation
 7 to 11 AI perception 
+
+2020-01-20 Learning AI behave tree of UE4
